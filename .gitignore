@@ -2,6 +2,7 @@ work*
 work_bak/
 .idea/
 log*/
+
 .DS_STORE
 
 # Byte-compiled / optimized / DLL files
