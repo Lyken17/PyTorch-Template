@@ -2,8 +2,7 @@ work*
 work_bak/
 .idea/
 log*/
-
-.DS_STORE
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
