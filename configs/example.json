@@ -1,0 +1,22 @@
+[
+    {
+        "gpus": 1,
+        "main": "mains/cifar.py",
+        "arch": "resnet20"
+    },
+    {
+        "gpus": 1,
+        "main": "mains/cifar.py",
+        "arch": "resnet56"
+    },
+    {
+        "gpus": 1,
+        "main": "mains/cifar.py",
+        "arch": "resnet101"
+    },
+    {
+        "gpus": 1,
+        "main": "mains/cifar.py",
+        "arch": "resnet200"
+    }
+]
